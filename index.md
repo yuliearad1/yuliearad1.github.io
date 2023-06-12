@@ -8,7 +8,9 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Yulie Arad is a rising senior at the University of Illinois at Urbana-Champaign. She is pursuing a dual degree in computer science from the Grainger College of Engineering and mathematics from the College of Libral Arts and Science. 
+
+Email: arad2@illinois.edu
 
 ## About My Mentor
 
