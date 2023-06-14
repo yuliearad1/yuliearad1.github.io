@@ -18,7 +18,7 @@ Email: arad2@illinois.edu
 
 ## About My Project
 
-I am working on a Motion Planning Project where 
+I am working on a motion planning research project, 
 
 [My Final Report](files/finalreport.pdf)
 
