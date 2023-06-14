@@ -18,7 +18,7 @@ Email: arad2@illinois.edu
 
 ## About My Project
 
-I am working on a motion planning research project, 
+I am working on a motion planning research project. This project focuses on fast exploration, in which we first sample a point, check its validity (either free or obstacle space) and then proceed to expand a ball around the point, until we find a point of the opposite validity. Once we repeat this process some number of times, we have a roadmap of balls of both free and obstacle space that we can use to traverse through the space. We are exploring different methods of connecting points within the roadmap, variations of expansion methods, and different types of queries that we can use to determine the number of samples we need to take. 
 
 [My Final Report](files/finalreport.pdf)
 
